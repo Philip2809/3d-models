@@ -4,7 +4,8 @@
 
 I designed this in tinkercad but will start using blender to design future 3d prints.
 
-todo: is this a public link as well?
 https://www.tinkercad.com/things/0CnZXPLreAm-tsdz2-female-cap
 
-I made the outer cylinder 8.5mm and I have added two files, one with where the hole is 6.5mm and one where it is 6.75mm.
+I made the outer cylinder 8.5mm and I have added two files, one with where the hole is 6.5mm and one where it is 6.75mm. I have a couple of different cables and on most of them the 6.5mm hole one was a little to tight and I was worried that it would damage the plastic so therefor a made a 6.75mm version.
+
+The T in the name is for how big I made the "rectangle" for the flat part of the connector, I found that 1.25mm worked the best for this.
